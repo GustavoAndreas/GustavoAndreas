@@ -1,4 +1,4 @@
-# 👨‍💻 Gustavo Andreas
+# 👨‍💻 Muito prazer, sou o Gustavo Andreas!
 
 **Estudante de Ciência da Computação | Técnico em Mecatrônica | Desenvolvedor em formação**  
 📍 Sorocaba – SP | 📧 gustavosantos@estudante.ufscar.br  
