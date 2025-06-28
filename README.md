@@ -4,7 +4,7 @@
 📍 Sorocaba – SP  
 📧 gustavosantos@estudante.ufscar.br  
 
-[![LinkedIn](https://img.shields.io/badge/-Gustavo%20Andreas-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-andreas)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-andreas)
 [![GitHub](https://img.shields.io/badge/-GustavoAndreas-181717?style=flat&logo=github&logoColor=white)](https://github.com/GustavoAndreas)
 
 ---
